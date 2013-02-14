@@ -24,6 +24,7 @@
 		B1C1E796162E4A1400FE262A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B1C1E76E162E4A1400FE262A /* Foundation.framework */; };
 		B1C1E79E162E4A1500FE262A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B1C1E79C162E4A1500FE262A /* InfoPlist.strings */; };
 		B1C1E7A1162E4A1500FE262A /* ChordViewerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1C1E7A0162E4A1500FE262A /* ChordViewerTests.m */; };
+		B1C1E7AC162E4A5400FE262A /* OCChordView.m in Sources */ = {isa = PBXBuildFile; fileRef = B1C1E7AB162E4A5400FE262A /* OCChordView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,8 @@
 		B1C1E79D162E4A1500FE262A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B1C1E79F162E4A1500FE262A /* ChordViewerTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChordViewerTests.h; sourceTree = "<group>"; };
 		B1C1E7A0162E4A1500FE262A /* ChordViewerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChordViewerTests.m; sourceTree = "<group>"; };
+		B1C1E7AA162E4A5400FE262A /* OCChordView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OCChordView.h; sourceTree = "<group>"; };
+		B1C1E7AB162E4A5400FE262A /* OCChordView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OCChordView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +126,8 @@
 				B1C1E77C162E4A1400FE262A /* AppDelegate.m */,
 				B1C1E784162E4A1400FE262A /* ViewController.h */,
 				B1C1E785162E4A1400FE262A /* ViewController.m */,
+				B1C1E7AA162E4A5400FE262A /* OCChordView.h */,
+				B1C1E7AB162E4A5400FE262A /* OCChordView.m */,
 				B1C1E787162E4A1400FE262A /* ViewController_iPhone.xib */,
 				B1C1E78A162E4A1400FE262A /* ViewController_iPad.xib */,
 				B1C1E773162E4A1400FE262A /* Supporting Files */,
@@ -277,6 +282,7 @@
 				B1C1E779162E4A1400FE262A /* main.m in Sources */,
 				B1C1E77D162E4A1400FE262A /* AppDelegate.m in Sources */,
 				B1C1E786162E4A1400FE262A /* ViewController.m in Sources */,
+				B1C1E7AC162E4A5400FE262A /* OCChordView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -386,6 +392,7 @@
 		B1C1E7A5162E4A1500FE262A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ChordViewer/ChordViewer-Prefix.pch";
 				INFOPLIST_FILE = "ChordViewer/ChordViewer-Info.plist";
@@ -397,6 +404,7 @@
 		B1C1E7A6162E4A1500FE262A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ChordViewer/ChordViewer-Prefix.pch";
 				INFOPLIST_FILE = "ChordViewer/ChordViewer-Info.plist";
@@ -458,6 +466,7 @@
 				B1C1E7A6162E4A1500FE262A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1C1E7A7162E4A1500FE262A /* Build configuration list for PBXNativeTarget "ChordViewerTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +475,7 @@
 				B1C1E7A9162E4A1500FE262A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,399 @@
+TChordViewerTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/Info.plist ChordViewerTests/ChordViewerTests-Info.plist
+cProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.o /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.o /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests normal armv7
+cLd /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests normal armv7s
+cCreateUniversalBinary /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests normal "armv7 armv7s"
+cGenerateDSYMFile /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests
+cCopyStringsFile /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/en.lproj/InfoPlist.strings ChordViewerTests/en.lproj/InfoPlist.strings
+cPhaseScriptExecution "Run Script" /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Script-B1C1E790162E4A1400FE262A.sh
+cTouch /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c000000005109C77000000000000310B0
+t1359595376
+s200880
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/NSException_SenTestFailure.h
+c000000005109C7710000000000000E25
+t1359595377
+s3621
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenInterfaceTestCase.h
+c000000005109C7710000000000000701
+t1359595377
+s1793
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTest.h
+c000000005109C771000000000000084C
+t1359595377
+s2124
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase.h
+c000000005109C77100000000000019FB
+t1359595377
+s6651
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCaseRun.h
+c000000005109C7710000000000000875
+t1359595377
+s2165
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestCase_Macros.h
+c000000005109C7710000000000007F41
+t1359595377
+s32577
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDefines.h
+c000000005109C7710000000000000947
+t1359595377
+s2375
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestDistributedNotifier.h
+c000000005109C7710000000000000800
+t1359595377
+s2048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestLog.h
+c000000005109C771000000000000079D
+t1359595377
+s1949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestObserver.h
+c000000005109C7710000000000000A6C
+t1359595377
+s2668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestProbe.h
+c000000005109C7710000000000000AD1
+t1359595377
+s2769
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestRun.h
+c000000005109C7710000000000000A79
+t1359595377
+s2681
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuite.h
+c000000005109C7710000000000000CCF
+t1359595377
+s3279
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestSuiteRun.h
+c000000005109C77100000000000007E1
+t1359595377
+s2017
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000005109C77100000000000008A5
+t1359595377
+s2213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingUtilities.h
+c000000005109C7710000000000000C37
+t1359595377
+s3127
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005109C772000000000062AD10
+t1359595378
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000005109C77100000000000015F7
+t1359595377
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000005109C7720000000000000E8D
+t1359595378
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005109C77400000000011BCDF0
+t1359595380
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c000000005109C7740000000000001B73
+t1359595380
+s7027
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch
+c00000000507E12940000000000000145
+t1350439572
+s325
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.h
+c00000000507E129500000000000000F1
+t1350439573
+s241
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m
+c00000000507E129500000000000001CE
+t1350439573
+s462
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/en.lproj/InfoPlist.strings
+c00000000507E1295000000000000002D
+t1350439573
+s45
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests
+t1360806566
+s10476
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.LinkFileList
+c00000000511C427F0000000000000092
+t1360806527
+s146
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.o
+t1360806566
+s8820
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests
+t1360806566
+s10476
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.LinkFileList
+c00000000511C427F0000000000000093
+t1360806527
+s147
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.o
+t1360806566
+s8820
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Script-B1C1E790162E4A1400FE262A.sh
+c00000000511C427F0000000000000062
+t1360806527
+s98
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest
+t1360806566
+s170
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM
+t1360806566
+s102
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests
+t1360806566
+s26860
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/Info.plist
+t1360806566
+s700
+
+N/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/en.lproj/InfoPlist.strings
+t1360806566
+s42
+
+N/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.pth
+t1360806528
+s4596980
+
+N/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.pth
+t1360806566
+s4596980
+
+N/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.pth
+t1360806528
+s4597032
+
+N/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.pth
+t1360806566
+s4597032
+
+NChordViewerTests/ChordViewerTests-Info.plist
+c00000000507E129400000000000002B4
+t1350439572
+s692
+
+CBuild AST from /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2c666c2e7accb641^ee5b6d2e7accb641^---0#1#0#--18"Check dependencies36"FFF106D6-F7CD-4883-93C6-21CE0657DA5F-
+
+CCompileC build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.o /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382499366.625205
+e382499366.650562
+r1
+xCompileC
+xbuild/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.o
+x/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m7d25a0267accb641^098ba6267accb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m0000000000000000^3742"CompileC build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.o ChordViewerTests/ChordViewerTests.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-generated-files.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-own-target-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-all-target-headers.hmap -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-project-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources/armv7 -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch -MMD -MT dependencies -MF /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.d --serialize-diagnostics /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.dia -c /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m -o /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.o36"F05F189C-FDC8-4B2E-B6F7-6425E815FEDB-
+
+CCompileC build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.o /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382499366.635203
+e382499366.661073
+r1
+xCompileC
+xbuild/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.o
+x/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.mbfb6a2267accb641^043ca9267accb641^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m0000000000000000^3749"CompileC build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.o ChordViewerTests/ChordViewerTests.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-generated-files.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-own-target-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-all-target-headers.hmap -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-project-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources/armv7s -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch -MMD -MT dependencies -MF /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.d --serialize-diagnostics /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.dia -c /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests.m -o /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.o36"67D5A605-F703-4AA4-B438-4AD74F77C163-
+
+CCopyStringsFile /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/en.lproj/InfoPlist.strings ChordViewerTests/en.lproj/InfoPlist.strings
+s382499366.729043
+e382499366.731403
+r1
+xCopyStringsFile
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/en.lproj/InfoPlist.strings
+xChordViewerTests/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy ChordViewerTests/en.lproj/InfoPlist.strings63b8ba267accb641^6c3dbb267accb641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/en.lproj/InfoPlist.strings0000000000000000^606"CopyStringsFile build/Debug-iphoneos/ChordViewerTests.octest/en.lproj/InfoPlist.strings ChordViewerTests/en.lproj/InfoPlist.strings    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/en.lproj -- ChordViewerTests/en.lproj/InfoPlist.strings36"12FEED89-077A-44E6-AEE0-6670E92D616D-
+
+CCreateUniversalBinary /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests normal "armv7 armv7s"
+s382499366.696094
+e382499366.702029
+r1
+xCreateUniversalBinary
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Create universal binary /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests224fb2267accb641^c8b7b3267accb641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests000000000080d041^765"CreateUniversalBinary build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests normal "armv7 armv7s"    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests -output /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests36"3C3A05E9-EC67-4BB4-8B5C-0FE2836FDA5B-
+
+CGenerateDSYMFile /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests
+s382499366.708792
+e382499366.721120
+r1
+xGenerateDSYMFile
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM6682b5267accb641^679ab8267accb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM000000000080d041^671"GenerateDSYMFile build/Debug-iphoneos/ChordViewerTests.octest.dSYM build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/ChordViewerTests -o /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest.dSYM36"5D7D0ECE-3677-44EB-AD26-77E66C646284-
+
+CLd /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests normal armv7
+s382499366.657384
+e382499366.682595
+r1
+xLd
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Link /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests645da8267accb641^7bbeae267accb641^---0#0#0#--1502"Ld build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests normal armv7    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.LinkFileList -dead_strip -bundle_loader /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewer.app/ChordViewer -fobjc-link-runtime -miphoneos-version-min=6.0 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests36"6A60A8F9-7C20-4690-B147-67ADD73B6246-
+
+CLd /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests normal armv7s
+s382499366.667859
+e382499366.689465
+r1
+xLd
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Link /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests7c0fab267accb641^0a81b0267accb641^---0#0#0#--1507"Ld build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests normal armv7s    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.LinkFileList -dead_strip -bundle_loader /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewer.app/ChordViewer -fobjc-link-runtime -miphoneos-version-min=6.0 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests36"3CFDF121-6161-4CF8-9FED-34DCE8B272D4-
+
+CPhaseScriptExecution "Run Script" /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Script-B1C1E790162E4A1400FE262A.sh
+s382499374.484174
+e382499374.501234
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Script-B1C1E790162E4A1400FE262A.sh
+o/Applications/Xcode.app/Contents/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'55877c2e7accb641^0953802e7accb641^-154"/Applications/Xcode.app/Contents/Developer/Tools/RunUnitTests:68: note: RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.1(21%IDEActivityLogMessage2@81"RunUnitTests exited without running tests because TEST_AFTER_BUILD was set to NO.-382499374#0#154#-0#-23%DVTTextDocumentLocation3@77"file://localhost/Applications/Xcode.app/Contents/Developer/Tools/RunUnitTests0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#30"Shell Script Invocation Notice--0#0#0#--21474"PhaseScriptExecution "Run Script" build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Script-B1C1E790162E4A1400FE262A.sh    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER ocrickard    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build    setenv BUILD_ROOT /Users/ocrickard/Dropbox/source/ChordViewer/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos    setenv BUNDLE_LOADER /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewer.app/ChordViewer    setenv CACHE_ROOT /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_CXX_LANGUAGE_STANDARD gnu++0x    setenv CLANG_CXX_LIBRARY libc++    setenv CLANG_WARN_EMPTY_BODY YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH ChordViewerTests.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv7s    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH ChordViewerTests.octest/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/ChordViewer.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME ChordViewerTests.octest.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH ChordViewerTests.octest/Executables    setenv EXECUTABLE_FOLDER_PATH ChordViewerTests.octest    setenv EXECUTABLE_NAME ChordViewerTests    setenv EXECUTABLE_PATH ChordViewerTests.octest/ChordViewerTests    setenv FILE_LIST /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH ChordViewerTests.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks\" \"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME ChordViewerTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER ChordViewer/ChordViewer-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS "DEBUG=1 "    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include\"  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE ChordViewerTests/ChordViewerTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH ChordViewerTests.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH ChordViewerTests.octest/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/ChordViewer.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER ocrickard    setenv INSTALL_ROOT /tmp/ChordViewer.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH ChordViewerTests.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-LinkMap-normal-armv7s.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7/ChordViewerTests.LinkFileList    setenv LINK_FILE_LIST_normal_armv7s /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal/armv7s/ChordViewerTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH ChordViewerTests.octest/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12C60    setenv MAC_OS_X_VERSION_ACTUAL 1082    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0802    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Objects-normal    setenv OBJROOT /Users/ocrickard/Dropbox/source/ChordViewer/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH ChordViewerTests.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/PkgInfo    setenv PKGINFO_PATH ChordViewerTests.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH ChordViewerTests.octest/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH ChordViewerTests.octest/PrivateHeaders    setenv PRODUCT_NAME ChordViewerTests    setenv PRODUCT_SETTINGS_PATH /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT ChordViewer    setenv PROJECT_DERIVED_FILE_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/DerivedSources    setenv PROJECT_DIR /Users/ocrickard/Dropbox/source/ChordViewer    setenv PROJECT_FILE_PATH /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer.xcodeproj    setenv PROJECT_NAME ChordViewer    setenv PROJECT_TEMP_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build    setenv PROJECT_TEMP_ROOT /Users/ocrickard/Dropbox/source/ChordViewer/build    setenv PUBLIC_HEADERS_FOLDER_PATH ChordViewerTests.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH ChordViewerTests.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk    setenv SDK_NAME iphoneos6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH ChordViewerTests.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH ChordViewerTests.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/ocrickard/Dropbox/source/ChordViewer    setenv SRCROOT /Users/ocrickard/Dropbox/source/ChordViewer    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/ocrickard/Dropbox/source/ChordViewer/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME ChordViewerTests    setenv TARGET_BUILD_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos    setenv TARGET_NAME ChordViewerTests    setenv TARGET_TEMP_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build    setenv TEMP_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build    setenv TEMP_FILES_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build    setenv TEMP_FILE_DIR /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build    setenv TEMP_ROOT /Users/ocrickard/Dropbox/source/ChordViewer/build    setenv TEST_AFTER_BUILD NO    setenv TEST_HOST /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewer.app/ChordViewer    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH ChordViewerTests.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER ocrickard    setenv USER_APPS_DIR /Users/ocrickard/Applications    setenv USER_LIBRARY_DIR /Users/ocrickard/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH ChordViewerTests.octest/version.plist    setenv VERSION_INFO_BUILDER ocrickard    setenv VERSION_INFO_FILE ChordViewerTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:ChordViewerTests  PROJECT:ChordViewer-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME ChordViewerTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H127    setenv XCODE_VERSION_ACTUAL 0460    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/Script-B1C1E790162E4A1400FE262A.sh36"214C81BD-1009-4B9D-9A08-F51526763A67-
+
+CProcessInfoPlistFile /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/Info.plist ChordViewerTests/ChordViewerTests-Info.plist
+s382499366.364468
+e382499366.367031
+r1
+xProcessInfoPlistFile
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/Info.plist
+xChordViewerTests/ChordViewerTests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process ChordViewerTests/ChordViewerTests-Info.plist535c5d267accb641^31ea5e267accb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewerTests/ChordViewerTests-Info.plist0000000000000000^593"ProcessInfoPlistFile build/Debug-iphoneos/ChordViewerTests.octest/Info.plist ChordViewerTests/ChordViewerTests-Info.plist    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ChordViewerTests/ChordViewerTests-Info.plist -expandbuildsettings -format binary -platform iphoneos -o /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest/Info.plist36"0584E0E8-6FAE-4406-92B9-B644B24D6588-
+
+CProcessPCH /Users/ocrickard/Library/Developer/Xcode/DerivedData/ChordViewer-fqopgjrbjgwhtycblmlukqjxahzd/Index/PrecompiledHeaders/ChordViewer-Prefix-bnpsxmdenprpycbnylvzcnitcxmm_ast/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ocrickard/Library/Developer/Xcode/DerivedData/ChordViewer-fqopgjrbjgwhtycblmlukqjxahzd/Index/PrecompiledHeaders/ChordViewer-Prefix-fugvxcbsopsgdkglqvwvintjwcyw_ast/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ocrickard/Library/Developer/Xcode/DerivedData/ChordViewer-fqopgjrbjgwhtycblmlukqjxahzd/Index/PrecompiledHeaders/ChordViewer-Prefix-gdzffjuxaufnefawmswqapeyloet_ast/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ocrickard/Library/Developer/Xcode/DerivedData/ChordViewer-fqopgjrbjgwhtycblmlukqjxahzd/Index/PrecompiledHeaders/ChordViewer-Prefix-gqfqerpbzasbezhflrambajxgjvw_ast/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382499327.951657
+e382499328.352283
+r1
+xProcessPCH
+x/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.pth
+xChordViewer/ChordViewer-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ChordViewer/ChordViewer-Prefix.pch33c2f3ff79ccb641^8bc25a007accb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch0000000000000000^3721"ProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Wno-sign-conversion -ccc-arcmt-check -miphoneos-version-min=6.0 -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-generated-files.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-own-target-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-all-target-headers.hmap -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-project-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources/armv7 -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.dia -c /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch -o /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-addwgonyhurnujfmuwhbqhwpgebx/ChordViewer-Prefix.pch.d36"6ADDC719-1E61-48B7-B94C-6A2FD37B8965-
+
+CProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382499366.382823
+e382499366.618360
+r1
+xProcessPCH
+x/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.pth
+xChordViewer/ChordViewer-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ChordViewer/ChordViewer-Prefix.pch8b1862267accb641^e84c9e267accb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch0000000000000000^3707"ProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-generated-files.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-own-target-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-all-target-headers.hmap -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-project-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources/armv7 -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.dia -c /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch -o /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-beersgsgrxlmvcfpmdnomvvsklhe/ChordViewer-Prefix.pch.d36"97748C36-9698-4851-BCB8-36E8EDFFD416-
+
+CProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382499327.951643
+e382499328.342212
+r1
+xProcessPCH
+x/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.pth
+xChordViewer/ChordViewer-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ChordViewer/ChordViewer-Prefix.pchb9c2f3ff79ccb641^e99c57007accb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch0000000000000000^3724"ProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Wno-sign-conversion -ccc-arcmt-check -miphoneos-version-min=6.0 -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-generated-files.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-own-target-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-all-target-headers.hmap -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-project-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources/armv7s -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.dia -c /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch -o /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-ekpchuivfwjunwbjipbvgobigtto/ChordViewer-Prefix.pch.d36"8418D2A5-26E9-4475-8944-ABA4BF63FFF3-
+
+CProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s382499366.382833
+e382499366.628388
+r1
+xProcessPCH
+x/var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.pth
+xChordViewer/ChordViewer-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ChordViewer/ChordViewer-Prefix.pch481862267accb641^94dda0267accb641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch0000000000000000^3710"ProcessPCH /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.pth ChordViewer/ChordViewer-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.0 -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-generated-files.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-own-target-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-all-target-headers.hmap -iquote /Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/ChordViewerTests-project-headers.hmap -I/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources/armv7s -I/Users/ocrickard/Dropbox/source/ChordViewer/build/ChordViewer.build/Debug-iphoneos/ChordViewerTests.build/DerivedSources -F/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.dia -c /Users/ocrickard/Dropbox/source/ChordViewer/ChordViewer/ChordViewer-Prefix.pch -o /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/k2/fqx7l37x0b7267n5rcglysn00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ChordViewer-Prefix-fvoldlrchykhvncwunjzzdpcszua/ChordViewer-Prefix.pch.d36"F6689AA0-A55E-4204-9353-0B884757A698-
+
+CTouch /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest
+s382499366.778228
+e382499366.783245
+r1
+xTouch
+x/Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octested46c7267accb641^0283c8267accb641^---0#0#0#--401"Touch build/Debug-iphoneos/ChordViewerTests.octest    cd /Users/ocrickard/Dropbox/source/ChordViewer    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ocrickard/Dropbox/source/ChordViewer/build/Debug-iphoneos/ChordViewerTests.octest36"A26B91BE-88E3-4672-9D86-6B9D962C3983-
+
