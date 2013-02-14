@@ -2,6 +2,8 @@
 
 So I got tired of seeing guitar apps come out that would either have really awfully rendered chord charts, or would rip off images they had no rights to.  So I spent a Saturday writing this little view.  It's fast, tiny, and generates beautifully rendered, readable guitar chord charts.
 
+![Screenshot](https://github.com/ocrickard/OCChordChartView/raw/master/photo.PNG)
+
 ##Installation##
 
 Drag in OCChordView.h and .m into your project.  Make sure your project links against CoreGraphics.
